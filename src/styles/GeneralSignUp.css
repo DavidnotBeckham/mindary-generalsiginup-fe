@@ -1,0 +1,43 @@
+/* .container {
+  display: grid;
+  grid-template-columns: 119px 248px 119px 395px;
+  grid-template-rows: repeat(7, 29px);
+  gap: 1px;
+  background-color: black;
+  width: fit-content;
+  margin: auto;
+  padding: 1px;
+}
+
+.header, .form-group, .timerContainer, .verifyEmailBtn, .codeCheckBtn, .signUpBtn {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  grid-column: 1 / -1;
+}
+
+.form-group {
+  padding: 0 4px;
+}
+
+.verifyEmailBtn, .codeCheckBtn, .signUpBtn {
+  height: 100%;
+  width: 100%;
+  border: none;
+  background-color: lightgray;
+  cursor: pointer;
+}
+
+input[type="email"], input[type="password"], input[type="text"] {
+  width: 100%;
+  border: none;
+  height: 100%;
+}
+
+input::placeholder {
+  color: gray;
+} */
